@@ -4,10 +4,10 @@
 
 [Reversing]
 =======================================================
- 1 | REVERSING        | 
- 2 | WHOAMI           | 
- 3 | PONTHY           | 
- 4 | POWEROFENCRYPTOR | 
+ 1 | REVERSING        |                                \n
+ 2 | WHOAMI           |                                \n
+ 3 | PONTHY           |                                \n
+ 4 | POWEROFENCRYPTOR |                                \n
 =======================================================
  
 2022 final
