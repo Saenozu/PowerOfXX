@@ -2,7 +2,7 @@
 
 2022 qual
 
-[Reversing]
+\[Reversing\]
  No | Problem          | Link                     |
  -- | ---------------- | ------------------------ |
   1 | REVERSING        | Link                     |
@@ -10,11 +10,13 @@
   3 | PONTHY           | Link                     |
   4 | POWEROFENCRYPTOR | Link                     |
  
+ 
+ 
 2022 final
  
-[Reversing]
-=======================================================
- 1 | EASYGAME         | 
- 2 | DEMONBANK        | 
- 3 | POWEROFXX        | 
-=======================================================
+\[Reversing\]
+ No | Problem          | Link                     |
+ -- | ---------------- | ------------------------ |
+  1 | EASYGAME         | Link                     |
+  2 | DEMONBANK        | Link                     |
+  3 | POWEROFXX        | Link                     |
