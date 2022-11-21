@@ -3,12 +3,11 @@
 2022 qual
 
 [Reversing]
-=======================================================
- 1 | REVERSING        | 
- 2 | WHOAMI           | 
- 3 | PONTHY           | 
- 4 | POWEROFENCRYPTOR |
-=======================================================
+ No | Problem          | Link                     |
+  1 | REVERSING        | Link                     |
+  2 | WHOAMI           | Link                     |
+  3 | PONTHY           | Link                     |
+  4 | POWEROFENCRYPTOR | Link                     |
  
 2022 final
  
